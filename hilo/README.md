@@ -1,7 +1,5 @@
 # Hilo
-Are you willing to risk everything? Play Hilo and you might be surprised. The rules are simple. Roll 
-the dice. Count the ones and fives. Each one is worth 100 and 50 points respectively. As long as you 
-roll at least a one or a five you can try again. If not the game is over.
+Are you willing to risk everything? Play Hilo and you might be surprised. The rules are simple. Pick a random card and let it face up. Guess weather the next card on the top of the deck is higher or lower than the randomly picked card. Get 100 point for correct guess, and lose 75 point for a wrong guess 
 
 ## Getting Started
 ---
@@ -19,7 +17,7 @@ The project files and folders are organized as follows:
 ```
 root                    (project root folder)
 +-- hilo                (source code for game)
-  +-- game              (specific classes)
+  +-- director             (specific classes)
   +-- __main__.py       (program entry point)
 +-- README.md           (general info)
 ```
@@ -30,4 +28,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Matt Manley (manleym@byui.edu)
+* coulston Mayett (may20018@byui.edu)
